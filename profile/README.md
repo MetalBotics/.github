@@ -9,7 +9,7 @@ MetalBotics is a passionate community of engineers, developers, and robotics ent
 ## 🚀 Our Projects
 
 - **Morfeul**: Flexible, modular system for farm management.
-- **File Transfer System**: Share your files in a secure and private way to another machine, fast and securely.
+- **[MetalFiles](https://metalfiles.tech)**: Share your files in a secure and private way to another machine, fast and securely.
 
 ## 🛡 Code of Conduct
 
