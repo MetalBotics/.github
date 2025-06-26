@@ -1,4 +1,4 @@
-# MetalBotics 🤖
+# MetalBotics 
 
 Welcome to MetalBotics, where innovation meets automation!
 
@@ -6,12 +6,12 @@ Welcome to MetalBotics, where innovation meets automation!
 
 MetalBotics is a passionate community of engineers, developers, and robotics enthusiasts dedicated to advancing the fields of robotics, artificial intelligence, and automation. Our mission is to create open-source solutions that empower the next generation of makers and problem-solvers.
 
-## 🚀 Our Projects
+##  Our Projects
 
 - **Morfeul**: Flexible, modular system for farm management.
 - **[MetalFiles](https://metalfiles.tech)**: Share your files in a secure and private way to another machine, fast and securely.
 
-## 🛡 Code of Conduct
+##  Code of Conduct
 
 We are committed to providing a welcoming and inclusive environment. Please read our [Code of Conduct](https://www.metalbotics.tech/privacy) before participating.
 
