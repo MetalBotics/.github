@@ -1,3 +1,6 @@
+
+![MetalBotics Banner](./BUILDING%20A%20NEW%20WAY%20OF%20LIVING.png)
+
 # MetalBotics 
 
 Welcome to MetalBotics, where innovation meets automation!
