@@ -4,7 +4,7 @@ Welcome to MetalBotics, where innovation meets automation!
 
 ## About Us
 
-MetalBotics is a passionate community of engineers, developers, and robotics enthusiasts dedicated to advancing the fields of robotics, artificial intelligence, and automation. Our mission is to create open-source solutions that empower the next generation of makers and problem-solvers.
+MetalBotics is a passionate community of engineers, developers, and robotics enthusiasts dedicated to advancing the fields of robotics, artificial intelligence, and automation. Our mission is to create tools and solutions that empower the next generation of farmers, makers and problem-solvers.
 
 ##  Our Projects
 
