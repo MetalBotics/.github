@@ -20,7 +20,7 @@ We are committed to providing a welcoming and inclusive environment. Please read
 
 ---
 
-Feel free to reach out or join the conversation. Let’s build the future of enterprise technology together!
+Feel free to reach out or join the conversation. Let’s build the future of the world together!
 
 © 2025 [MetalBotics](https://www.metalbotics.tech). All rights reserved.
 
