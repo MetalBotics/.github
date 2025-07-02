@@ -7,11 +7,11 @@ Welcome to MetalBotics, where innovation meets automation!
 
 ## About Us
 
-MetalBotics is a passionate community of engineers, developers, and robotics enthusiasts dedicated to advancing the fields of robotics, artificial intelligence, and automation. Our mission is to create tools and solutions that empower the next generation of farmers, makers and problem-solvers.
+MetalBotics is a small group of engineers, developers, and robotics enthusiasts dedicated to advancing the fields of robotics, artificial intelligence, and automation. Our mission is to create tools and solutions that empower the next generation of farmers, makers and problem-solvers.
 
 ##  Our Projects
 
-- **Morfeul**: Flexible, modular system for farm management.
+- **Morfeul**: Flexible, modular and complete main system for farm management.
 - **[MetalFiles](https://metalfiles.tech)**: Share your files in a secure and private way to another machine, fast and securely.
 
 ##  Code of Conduct
