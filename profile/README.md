@@ -11,7 +11,7 @@ MetalBotics is a small group of engineers, developers, and robotics enthusiasts 
 
 ##  Our Projects
 
-- **Morfeul**: Flexible, modular and complete main system for farm management.
+- **Morfeul**: Flexible, modular and complete main system for all types and sizes of farm management.
 - **[MetalFiles](https://metalfiles.tech)**: Share your files in a secure and private way to another machine, fast and securely.
 
 ##  Code of Conduct
